@@ -1,0 +1,12 @@
+# Project exclude paths
+/01-direct-link-consumer/target/
+/01-direct-link-provider/target/
+/01-directlink-consumer/target/
+/01-directlink-interfaces/target/
+/01-directlink-provider/target/
+/01-jpg-to-pdf/target/
+/01-user-interface/target/
+/01-user-service-consumer/target/
+/01-user-service-provider/target/
+/02-springboot-order-service-consumer/target/
+/02-springboot-user-service-provider/target/

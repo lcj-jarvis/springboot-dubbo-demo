@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/01-direct-link-consumer" />
+    <file type="web" url="file://$PROJECT_DIR$/01-direct-link-provider" />
+    <file type="web" url="file://$PROJECT_DIR$/01-directlink-consumer" />
+    <file type="web" url="file://$PROJECT_DIR$/01-directlink-provider" />
+    <file type="web" url="file://$PROJECT_DIR$/jpg-to-pdf" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/01-user-service-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/01-user-service-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/01-user-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/02-springboot-user-service-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/02-springboot-order-service-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/01-direct-link-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/01-direct-link-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/01-directlink-interfaces/pom.xml" />
+        <option value="$PROJECT_DIR$/01-directlink-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/01-directlink-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/01-jpg-to-pdf/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

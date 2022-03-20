@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/01-direct-link-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-direct-link-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-direct-link-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-direct-link-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-directlink-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-directlink-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-directlink-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-directlink-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-jpg-to-pdf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-user-service-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-user-service-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-user-service-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-user-service-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-springboot-order-service-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-springboot-user-service-provider/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

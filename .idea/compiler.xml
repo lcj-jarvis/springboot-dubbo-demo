@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="01-user-service-provider" />
+        <module name="01-directlink-consumer" />
+        <module name="jpg-to-pdf" />
+        <module name="02-springboot-user-service-provider" />
+        <module name="01-directlink-provider" />
+        <module name="01-user-service-consumer" />
+        <module name="02-springboot-order-service-consumer" />
+        <module name="01-direct-link-provider" />
+        <module name="01-jpg-to-pdf" />
+        <module name="01-direct-link-consumer" />
+        <module name="01-directlink-interfaces" />
+        <module name="01-user-interface" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="01-direct-link-consumer" target="1.8" />
+      <module name="01-direct-link-provider" target="1.8" />
+      <module name="01-directlink-consumer" target="1.8" />
+      <module name="01-directlink-interfaces" target="1.8" />
+      <module name="01-directlink-provider" target="1.8" />
+      <module name="01-jpg-to-pdf" target="1.8" />
+      <module name="01-user-interface" target="1.8" />
+      <module name="01-user-service-consumer" target="1.8" />
+      <module name="01-user-service-provider" target="1.8" />
+      <module name="02-springboot-order-service-consumer" target="1.8" />
+      <module name="02-springboot-user-service-provider" target="1.8" />
+      <module name="jpg-to-pdf" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="01-jpg-to-pdf" options="-parameters" />
+      <module name="02-springboot-order-service-consumer" options="-parameters" />
+      <module name="02-springboot-user-service-provider" options="-parameters" />
+    </option>
+  </component>
+</project>

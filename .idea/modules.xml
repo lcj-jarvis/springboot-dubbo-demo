@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-direct-link-consumer/01-direct-link-consumer.iml" filepath="$PROJECT_DIR$/01-direct-link-consumer/01-direct-link-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-direct-link-provider/01-direct-link-provider.iml" filepath="$PROJECT_DIR$/01-direct-link-provider/01-direct-link-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-directlink-consumer/01-directlink-consumer.iml" filepath="$PROJECT_DIR$/01-directlink-consumer/01-directlink-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-directlink-interfaces/01-directlink-interfaces.iml" filepath="$PROJECT_DIR$/01-directlink-interfaces/01-directlink-interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-directlink-provider/01-directlink-provider.iml" filepath="$PROJECT_DIR$/01-directlink-provider/01-directlink-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-jpg-to-pdf/01-jpg-to-pdf.iml" filepath="$PROJECT_DIR$/01-jpg-to-pdf/01-jpg-to-pdf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-user-interface/01-user-interface.iml" filepath="$PROJECT_DIR$/01-user-interface/01-user-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-user-service-consumer/01-user-service-consumer.iml" filepath="$PROJECT_DIR$/01-user-service-consumer/01-user-service-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-user-service-provider/01-user-service-provider.iml" filepath="$PROJECT_DIR$/01-user-service-provider/01-user-service-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-springboot-order-service-consumer/02-springboot-order-service-consumer.iml" filepath="$PROJECT_DIR$/02-springboot-order-service-consumer/02-springboot-order-service-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-springboot-user-service-provider/02-springboot-user-service-provider.iml" filepath="$PROJECT_DIR$/02-springboot-user-service-provider/02-springboot-user-service-provider.iml" />
+    </modules>
+  </component>
+</project>

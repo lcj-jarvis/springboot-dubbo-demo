@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jpg-to-pdf:war">
+    <output-path>$PROJECT_DIR$/jpg-to-pdf/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>jpg-to-pdf</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="jpg-to-pdf-1.0.0.war">
+      <element id="artifact" artifact-name="jpg-to-pdf:war exploded" />
+    </root>
+  </artifact>
+</component>
